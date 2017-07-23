@@ -29,6 +29,11 @@ package applicationPages;
 		password.sendKeys(pwd);
 		LogIn.click();
 		}
+		
+		public void close_it()
+		{
+			
+		}
 
 	}
 
